@@ -728,24 +728,32 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![s1](https://user-images.githubusercontent.com/118622513/212908088-376604af-288a-4b97-9e8a-3b84ff91a38c.png)
 
-![output](companywebsite/static/images/output/s1.png)
+
 ### Products Page:
+![s2](https://user-images.githubusercontent.com/118622513/212908105-19bbc881-0d2b-4ff4-85e8-f53ae190673b.png)
+![s3](https://user-images.githubusercontent.com/118622513/212908120-c487cf13-7221-4643-94da-5305e088ebaf.png)
 
-![output](companywebsite/static/images/output/s2.png)
-![output](companywebsite/static/images/output/s3.png)
+
 
 ### People Page:
-![output](companywebsite/static/images/output/s4.png)
-![output](companywebsite/static/images/output/s5.png)
-![output](companywebsite/static/images/output/s6.png)
-![output](companywebsite/static/images/output/s7.png)
+![s4](https://user-images.githubusercontent.com/118622513/212908148-a9c00493-7b0a-4654-885a-5c066566e369.png)
+![s5](https://user-images.githubusercontent.com/118622513/212908164-b69036df-255e-4bf9-b92b-d7f56fa74d10.png)
+![s6](https://user-images.githubusercontent.com/118622513/212908185-ef4c463b-a630-48c8-b144-5e25673be864.png)
+![s7](https://user-images.githubusercontent.com/118622513/212908200-22e797c4-e4a3-4838-9c40-a3426746cd3a.png)
+
+
+
 
 ### Contact us Page:
-![output](companywebsite/static/images/output/s8.png)
+![s8](https://user-images.githubusercontent.com/118622513/212908219-66fb29b9-4e39-4330-88a2-346c88b6c382.png)
+
+
 ### Validation:
 HTML:
-![output](companywebsite/static/images/output/s9.png)
+
+![s9](https://user-images.githubusercontent.com/118622513/212908239-771c6cce-b74a-4870-b353-ab30b13a9b09.png)
 
 ## Result:
 
